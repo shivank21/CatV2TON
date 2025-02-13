@@ -31,4 +31,4 @@
 
 ## Updates
 
-- **`2025/01/20`**: Our paper has been published on [**ArXiv**](http:/  /arxiv.org/abs/2501.11325v1).
+- **`2025/01/20`**: Our paper has been published on **[ArXiv](http://arxiv.org/abs/2501.11325v1)**.
