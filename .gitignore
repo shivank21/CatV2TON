@@ -1,0 +1,12 @@
+Datasets
+Models
+playground*
+*/__pycache__/*
+**/__pycache__/*
+*/.ipynb_checkpoints/*
+*/.vscode/*
+*/.pytest
+__pycache__
+.gradio
+.DS_Store
+OUTPUT
