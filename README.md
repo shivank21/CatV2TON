@@ -36,17 +36,7 @@
   <img src="resource/img/overview.png" width="100%" height="100%"/>
 </div>
 
-
-- [CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation](#catv2ton-taming-diffusion-transformers-for-vision-based-virtual-try-on-with-temporal-concatenation)
-  - [Updates](#updates)
-  - [Overview](#overview)
-  - [Evaluation](#evaluation)
-    - [Evaluation for Image Try-On](#evaluation-for-image-try-on)
-    - [Evaluation for Video Try-On](#evaluation-for-video-try-on)
-  - [Inference](#inference)
-    - [Inference for Image Try-On](#inference-for-image-try-on)
-    - [Inference for Video Try-On](#inference-for-video-try-on)
-
+CatV2TON is a DiT-based method for Vision-Based Virtual Try-On (V2TON) with Temporal Concatenation of Video Frames and Garment Condition.
 
 ## Evaluation
 
