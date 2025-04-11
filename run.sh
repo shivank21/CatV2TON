@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 gdown 12QDkjn30P9EiIqZhtCFL4pEi7oZj2psQ
 
-tar -xvzf /content/CatV2TON/ViViD-CLIPED-512x384-Test.tar.gz
+tar -xvzf ./ViViD-CLIPED-512x384-Test.tar.gz
 
 Data_Path="./ViViD-CLIPED-512x384-Test"
 Output="./results"
